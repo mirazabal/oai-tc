@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/mir/workspace/moving_average/build",
+  "command": "/usr/bin/cc  -I/home/mir/workspace/moving_average/include    -fno-omit-frame-pointer -fsanitize=address -Wall -Werror -g -fprofile-arcs -ftest-coverage -pg -o CMakeFiles/mv_avg.dir/home/mir/workspace/alg_ds/ds/seq_container/seq_ring.c.o   -c /home/mir/workspace/alg_ds/ds/seq_container/seq_ring.c",
+  "file": "/home/mir/workspace/alg_ds/ds/seq_container/seq_ring.c"
+},
+{
+  "directory": "/home/mir/workspace/moving_average/build",
+  "command": "/usr/bin/cc  -I/home/mir/workspace/moving_average/include    -fno-omit-frame-pointer -fsanitize=address -Wall -Werror -g -fprofile-arcs -ftest-coverage -pg -o CMakeFiles/mv_avg.dir/home/mir/workspace/alg_ds/alg/defer.c.o   -c /home/mir/workspace/alg_ds/alg/defer.c",
+  "file": "/home/mir/workspace/alg_ds/alg/defer.c"
+},
+{
+  "directory": "/home/mir/workspace/moving_average/build",
+  "command": "/usr/bin/cc  -I/home/mir/workspace/moving_average/include    -fno-omit-frame-pointer -fsanitize=address -Wall -Werror -g -fprofile-arcs -ftest-coverage -pg -o CMakeFiles/mv_avg.dir/home/mir/workspace/alg_ds/alg/accumulate.c.o   -c /home/mir/workspace/alg_ds/alg/accumulate.c",
+  "file": "/home/mir/workspace/alg_ds/alg/accumulate.c"
+},
+{
+  "directory": "/home/mir/workspace/moving_average/build",
+  "command": "/usr/bin/cc  -I/home/mir/workspace/moving_average/include    -fno-omit-frame-pointer -fsanitize=address -Wall -Werror -g -fprofile-arcs -ftest-coverage -pg -o CMakeFiles/mv_avg.dir/home/mir/workspace/alg_ds/alg/lower_bound.c.o   -c /home/mir/workspace/alg_ds/alg/lower_bound.c",
+  "file": "/home/mir/workspace/alg_ds/alg/lower_bound.c"
+},
+{
+  "directory": "/home/mir/workspace/moving_average/build",
+  "command": "/usr/bin/cc  -I/home/mir/workspace/moving_average/include    -fno-omit-frame-pointer -fsanitize=address -Wall -Werror -g -fprofile-arcs -ftest-coverage -pg -o CMakeFiles/mv_avg.dir/test.c.o   -c /home/mir/workspace/moving_average/test.c",
+  "file": "/home/mir/workspace/moving_average/test.c"
+},
+{
+  "directory": "/home/mir/workspace/moving_average/build",
+  "command": "/usr/bin/cc  -I/home/mir/workspace/moving_average/include    -fno-omit-frame-pointer -fsanitize=address -Wall -Werror -g -fprofile-arcs -ftest-coverage -pg -o CMakeFiles/mv_avg.dir/mv_avg_elm.c.o   -c /home/mir/workspace/moving_average/mv_avg_elm.c",
+  "file": "/home/mir/workspace/moving_average/mv_avg_elm.c"
+},
+{
+  "directory": "/home/mir/workspace/moving_average/build",
+  "command": "/usr/bin/cc  -I/home/mir/workspace/moving_average/include    -fno-omit-frame-pointer -fsanitize=address -Wall -Werror -g -fprofile-arcs -ftest-coverage -pg -o CMakeFiles/mv_avg.dir/mv_avg_time.c.o   -c /home/mir/workspace/moving_average/mv_avg_time.c",
+  "file": "/home/mir/workspace/moving_average/mv_avg_time.c"
+}
+]
